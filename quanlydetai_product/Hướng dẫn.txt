@@ -1,0 +1,13 @@
+FE:
+   b1: Chạy câu lệnh `npm i yarn`
+   b2: Chạy `yarn`
+   b2: Chạy `yarn start`
+
+BE: 
+   b1: Chạy câu lệnh `npm i`
+   b2: Chạy câu lệnh `npm run dev`
+
+
+Tài khoản admin: 
+    username: admin
+    password: 123456789
